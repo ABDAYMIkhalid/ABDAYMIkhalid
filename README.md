@@ -11,25 +11,11 @@
 ---
 
 ## About Me
-
-I am a **Data Science student** at **Faculté Polydisciplinaire de Taza**.
-
-I am currently learning programming, data science, web development, Linux, networking, and cybersecurity through university courses, practical labs, and personal projects.
-
----
-
-## What I’m Learning
-
-- Python for data science
-- C and C++ programming
-- HTML, CSS, JavaScript and PHP
-- SQL and databases
-- Linux and Bash scripting
-- Networking with Cisco Packet Tracer
-- Cybersecurity basics, DVWA, Wireshark and Burp Suite
-- UML and software design
-
----
+👀 I’m interested in Data Science, Cybersecurity and Web Development  
+👨‍🎓 Data Science student at Faculté Polydisciplinaire de Taza  
+🌱 Currently learning Linux, Networking, Python and Web Security  
+💞️ Open to collaborate on student projects and tech labs  
+📫 Reach me: khalid.abdaymi@usmba.ac.ma 
 
 ## Skills
 
