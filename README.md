@@ -54,9 +54,9 @@ I am currently learning programming, data science, web development, Linux, netwo
 
 ## Contact
 
-- GitHub: [KHALIDOZZ2](https://github.com/KHALIDOZZ2)
+- GitHub: [ABDAYMIkhalid](https://github.com/ABDAYMIkhalid)
 - Email: khalid.abdaymi@usmba.ac.ma
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/khalidabdaymi/
 
 ---
 
