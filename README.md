@@ -37,8 +37,6 @@ I’m interested in Data Science, Cybersecurity and software Development
 ---
 
 ## Contact
-
-- GitHub: [ABDAYMIkhalid](https://github.com/ABDAYMIkhalid)
 - Email: khalid.abdaymi@usmba.ac.ma
 - LinkedIn: https://www.linkedin.com/in/khalidabdaymi/
 
