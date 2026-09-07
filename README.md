@@ -12,11 +12,8 @@
 ---
 
 ## About Me
-👀 I’m interested in Data Science, Cybersecurity and software Development  
-👨‍🎓 Data Science student at Faculté Polydisciplinaire de Taza  
-🌱 Currently learning Linux, Networking, Python and Web Security  
-💞️ Open to collaborate on student projects and tech labs  
-📫 Reach me: khalid.abdaymi@usmba.ac.ma 
+I’m interested in Data Science, Cybersecurity and software Development  
+ Data Science student at Faculté Polydisciplinaire de Taza 
 
 ## Skills
 
