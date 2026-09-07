@@ -5,7 +5,7 @@
 
 # Hi, I'm Khalid Abdaymi 👋
 
-### Data Science Student | Learning Web, Linux, Networking & Cybersecurity
+### Data Science Student
 
 </div>
 
