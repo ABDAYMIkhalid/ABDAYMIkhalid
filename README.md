@@ -19,7 +19,7 @@ I’m interested in Data Science, Cybersecurity and software Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,php,mysql,linux,ubuntu,bash,git,github,vscode" />
+<img src="banner.jpg" />
 
 </div>
 
