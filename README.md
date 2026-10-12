@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="c244c779afeaece3933bbac0ce6b08f7.jpg
+<img src="banner.jpg
 " alt="Khalid Abdaymi Banner" width="100%" />
 
 # Hi, I'm Khalid Abdaymi 👋
